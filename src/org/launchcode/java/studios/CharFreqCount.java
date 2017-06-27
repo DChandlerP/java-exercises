@@ -6,6 +6,4 @@ package org.launchcode.java.studios;
 public class CharFreqCount {
 }
 
-import java.util.HashMap;
-import java.util.Map;
 
